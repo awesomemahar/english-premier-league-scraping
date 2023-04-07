@@ -1,3 +1,5 @@
+<p>Scrap any league's fixtures, teams, standing, players and etc.</p>
+
 All Leagues
 ![image](https://user-images.githubusercontent.com/67231332/230594265-6a293e7f-9369-4b7d-bd40-461f1ca7ebff.png)
 
