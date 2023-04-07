@@ -6,3 +6,6 @@ Premier League Fixtures
 
 Home Away Table
 ![image](https://user-images.githubusercontent.com/67231332/230594535-c11a3df3-b183-4032-b52d-5e620bcef0bd.png)
+
+Teams
+![image](https://user-images.githubusercontent.com/67231332/230595030-59c3f73d-f303-4d8c-adc4-13d04fcd53e7.png)
